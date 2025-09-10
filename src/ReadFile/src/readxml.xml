@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Test>
+    <case id="1">
+        <domain>Java</domain>
+        <count>39</count>
+    </case>
+
+    <case id="2">
+        <domain>C/C++</domain>
+        <count>45</count>
+    </case>
+</Test>
